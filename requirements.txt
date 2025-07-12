@@ -1,0 +1,9 @@
+Python 3.8+
+OpenCV
+Ultralytics YOLOv8
+PyTorch
+TorchReID
+torchvision
+scikit-learn
+numpy
+Pillow
